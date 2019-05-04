@@ -52,7 +52,7 @@ export class AppComponent {
       instanceType: 'medium',
       name: 'Database Server',
       status: 'stable',
-      started: new Date(15, 1, 2019)
+      started: new Date(2019, 1, 20)
     });
   }
 }
